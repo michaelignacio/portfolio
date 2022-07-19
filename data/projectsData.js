@@ -1,19 +1,21 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'Incite Energy',
+    description: `Incite Energy combines specialist economic, financial analytical skills with real-world engineering and project development capability to deliver optimised clean energy solutions.`,
+    imgSrc: '/static/images/incite.jpg',
+    href: 'https://incite.energy/',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'CollegeSage',
+    description: `CollegeSage helps you find the perfect U.S. college for international students, including needs-based aid data and the percentages paid by colleges, majors offered, college locations, and more.`,
+    imgSrc: '/static/images/collegesage.jpg',
+    href: 'https://collegesage.web3.au/',
+  },
+  {
+    title: 'Kaizen Conservation Group',
+    description: `The goal of Kaizen Conservation Group is to improve conservation from the generation and interpretation of scientific evidence to the transfer of evidence to decisions and societies.`,
+    imgSrc: '/static/images/kaizen.jpg',
+    href: 'https://kaizen.web3.au/',
   },
 ]
 

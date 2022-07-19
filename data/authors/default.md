@@ -1,16 +1,14 @@
 ---
-name: Tails Azimuth
+name: Michael Ignacio
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
+occupation: Senior Frontend Developer
+company: Web3 Brisbane
+email: mikelignacio@gmail.com
 twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+linkedin: https://www.linkedin.com/in/mjrignacio/
+github: https://github.com/michaelignacio
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+Michael Ignacio is a senior frontend developer at Web3 Brisbane. His interests include alternative, hip-hop, R&B, lofi music; powerlifting, and stand-up comedy.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He has a dog and cats for pets and advocates adopting strays using the TNR approach (trap, neuter, return). He likes to read thriller and sci-fi books in his free time.
