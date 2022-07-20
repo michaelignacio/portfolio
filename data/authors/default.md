@@ -1,6 +1,6 @@
 ---
 name: Michael Ignacio
-avatar: /static/images/avatar.png
+avatar: /static/images/avatar.jpg
 occupation: Senior Frontend Developer
 company: Web3 Brisbane
 email: mikelignacio@gmail.com
@@ -11,4 +11,4 @@ github: https://github.com/michaelignacio
 
 Michael Ignacio is a senior frontend developer at Web3 Brisbane. His interests include alternative, hip-hop, R&B, lofi music; powerlifting, and stand-up comedy.
 
-He has a dog and cats for pets and advocates adopting strays using the TNR approach (trap, neuter, return). He likes to read thriller and sci-fi books in his free time.
+He has a dog and cats for pets and advocates adopting strays. He likes to read thriller and sci-fi books in his free time.

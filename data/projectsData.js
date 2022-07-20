@@ -12,6 +12,13 @@ const projectsData = [
     href: 'https://collegesage.web3.au/',
   },
   {
+    title: 'Linesight',
+    description: `Linesight is a highly successful, global Cost and Project Management Consultancy with
+industry-leading expertise in their chosen fields.`,
+    imgSrc: '/static/images/linesight.jpg',
+    href: 'https://www.linesight.com/',
+  },
+  {
     title: 'Kaizen Conservation Group',
     description: `The goal of Kaizen Conservation Group is to improve conservation from the generation and interpretation of scientific evidence to the transfer of evidence to decisions and societies.`,
     imgSrc: '/static/images/kaizen.jpg',
